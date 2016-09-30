@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorPrimary"
+        android:orientation="horizontal"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp">
+
+        <com.yuyh.sprintnba.widget.ToggleLayout
+            android:id="@+id/tlTab"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@color/colorPrimary" />
+
+        <View
+            android:layout_width="20dp"
+            android:layout_height="match_parent"
+            android:background="@color/colorPrimary" />
+
+        <com.yuyh.sprintnba.widget.ToggleLayout
+            android:id="@+id/tlStat"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@color/colorPrimary" />
+    </LinearLayout>
+
+    <com.cjj.MaterialRefreshLayout
+        android:id="@+id/refresh"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/mainBg"
+        android:paddingLeft="5dp"
+        android:paddingRight="5dp"
+        app:isLoadMore="true"
+        app:overlay="true"
+        app:progress_colors="@array/material_colors"
+        app:progress_size_type="normal"
+        app:wave_color="#90ffffff"
+        app:wave_height_type="normal"
+        app:wave_show="true">
+
+
+        <com.yuyh.sprintnba.support.SupportRecyclerView
+            android:id="@+id/recyclerview"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+        <include layout="@layout/layout_common_empty_view" />
+
+
+    </com.cjj.MaterialRefreshLayout>
+
+</LinearLayout>

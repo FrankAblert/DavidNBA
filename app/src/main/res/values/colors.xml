@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF5055</color>
+    <color name="colorPrimaryDark">#FF5055</color>
+    <color name="colorAccent">#FF5055</color>
+    <color name="colorPrimaryFocus">#DD5055</color>
+    <color name="colorWindowBg">#FFFEFEFE</color>
+    <color name="listItemBg">#FFF0F0F0</color>
+    <color name="mainBg">#ECECEC</color>
+    <color name="linkText">#ECECEC</color>
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#727272</color>
+    <color name="primary_text_red">#FF5055</color>
+
+    <color name="divider">#8fB6B6B6</color>
+    <color name="title_layout">#D6D6D6</color>
+    <color name="entity_layout">#CCCCCC</color>
+
+    <color name="white">#FFFFFFFF</color>
+    <color name="alpha_white">#90FFFFFF</color>
+
+    <color name="material_red">#ffF44336</color>
+    <color name="material_green">#ff4CAF50</color>
+    <color name="material_blue">#ff03A9F4</color>
+    <color name="material_yellow">#ffFFEB3B</color>
+
+    <color name="btn_login_normal">#FF5055</color>
+    <color name="btn_login_pressed">#DD5055</color>
+    <color name="btn_register_normal">#ffffff</color>
+    <color name="btn_register_pressed">#DDDDDD</color>
+
+</resources>
