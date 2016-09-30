@@ -10,14 +10,14 @@
 
 本项目采用 MaterialDesign + MVP + Retrofit2 开发。项目的大部分功能已经晚上，并在百度手机助手等应用商店上架V1.0版本。其他未完成的部分功能，目前正在不断完善中，喜欢的话不防给个star哈。有兴趣的也可加入一起完善项目~
 
-我的微博：[@LeBron_Six](http://weibo.com/209096625)  欢迎球迷们一起交流~~
+我的微博：[@David](http://weibo.com/u/5439466748)  欢迎球迷们一起交流~~
 
 ## 更新
 ### V1.0
 初次版本，含NBA新闻、视频花絮、赛程及文字直播、技术统计、球队及球员数据排行、详细资料，虎扑论坛专区。
 
 ## 下载
-- APK本地下载：[SprintNBA-1.0.apk](https://raw.githubusercontent.com/smuyyh/SprintNBA/master/app/release/SprintNBA-1.0.apk)
+- APK本地下载：[SprintNBA-1.0.apk](https://raw.githubusercontent.com/xiaole0310/DavidNBA/master/app/release/SprintNBA-1.0.apk)
 
 - 百度手机助手应用商店：[SprintNBA](http://shouji.baidu.com/software/9748339.html)
 
@@ -25,7 +25,7 @@
 
 - 安卓市场：[SprintNBA](http://apk.hiapk.com/appinfo/com.yuyh.sprintnba/1)
 
-<img src="https://github.com/smuyyh/SprintNBA/blob/master/screenshot/download.png?raw=true" width="200"/>
+<img src="https://github.com/xiaole0310/DavidNBA/blob/master/screenshot/download.png?raw=true" width="200"/>
 
 ## TODO
 
@@ -35,7 +35,7 @@
 *   [ ] 虎扑论坛部分功能暂未完善
 *   [ ] 单支球队赛程
 *   [ ] 优化相关视频播放。腾讯视频真实地址提取功能不稳定，导致部分视频不能播放。
-*   [ ] 部分BUG修复（有疑问欢迎提[issue](https://github.com/smuyyh/SprintNBA/issues/new)）
+*   [ ] 部分BUG修复（有疑问欢迎提[issue](https://github.com/xiaole0310/DavidNBA/issues/new)）
 
 ## 应用截图
 
@@ -43,45 +43,45 @@
 
 - **头条新闻**
 
-<img src="https://github.com/smuyyh/SprintNBA/blob/master/screenshot/home_news.png?raw=true" width="280"/>
-<img src="https://github.com/smuyyh/SprintNBA/blob/master/screenshot/news_detail.png?raw=true" width="280"/>
-<img src="https://github.com/smuyyh/SprintNBA/blob/master/screenshot/news_img.png?raw=true" width="280"/>
+<img src="https://github.com/xiaole0310/DavidNBA/blob/master/screenshot/home_news.png?raw=true" width="280"/>
+<img src="https://github.com/xiaole0310/DavidNBA/blob/master/screenshot/news_detail.png?raw=true" width="280"/>
+<img src="https://github.com/xiaole0310/DavidNBA/blob/master/screenshot/news_img.png?raw=true" width="280"/>
 
 <br>
 
 - **比赛视频/赛场花絮**
 
-<img src="https://github.com/smuyyh/SprintNBA/blob/master/screenshot/home_video.png?raw=true" width="280"/>
-<img src="https://github.com/smuyyh/SprintNBA/blob/master/screenshot/video_play.png?raw=true" width="280"/>
+<img src="https://github.com/xiaole0310/DavidNBA/blob/master/screenshot/home_video.png?raw=true" width="280"/>
+<img src="https://github.com/xiaole0310/DavidNBA/blob/master/screenshot/video_play.png?raw=true" width="280"/>
 
 <br>
 
 - **比赛相关**
 
-<img src="https://github.com/smuyyh/SprintNBA/blob/master/screenshot/home_schedule.png?raw=true" width="280"/>
-<img src="https://github.com/smuyyh/SprintNBA/blob/master/screenshot/match_data.png?raw=true" width="280"/>
-<img src="https://github.com/smuyyh/SprintNBA/blob/master/screenshot/match_live.png?raw=true" width="280"/>
+<img src="https://github.com/xiaole0310/DavidNBA/blob/master/screenshot/home_schedule.png?raw=true" width="280"/>
+<img src="https://github.com/xiaole0310/DavidNBA/blob/master/screenshot/match_data.png?raw=true" width="280"/>
+<img src="https://github.com/xiaole0310/DavidNBA/blob/master/screenshot/match_live.png?raw=true" width="280"/>
 
 <br>
 
 - **球队/球员 相关**
 
-<img src="https://github.com/smuyyh/SprintNBA/blob/master/screenshot/home_team_sort.png?raw=true" width="280"/>
-<img src="https://github.com/smuyyh/SprintNBA/blob/master/screenshot/home_player_stats.png?raw=true" width="280"/>
-<img src="https://github.com/smuyyh/SprintNBA/blob/master/screenshot/player_list.png?raw=true" width="280"/>
-<img src="https://github.com/smuyyh/SprintNBA/blob/master/screenshot/player_detail.png?raw=true" width="280"/>
-<img src="https://github.com/smuyyh/SprintNBA/blob/master/screenshot/team_detail.png?raw=true" width="280"/>
+<img src="https://github.com/xiaole0310/DavidNBA/blob/master/screenshot/home_team_sort.png?raw=true" width="280"/>
+<img src="https://github.com/xiaole0310/DavidNBA/blob/master/screenshot/home_player_stats.png?raw=true" width="280"/>
+<img src="https://github.com/xiaole0310/DavidNBA/blob/master/screenshot/player_list.png?raw=true" width="280"/>
+<img src="https://github.com/xiaole0310/DavidNBA/blob/master/screenshot/player_detail.png?raw=true" width="280"/>
+<img src="https://github.com/xiaole0310/DavidNBA/blob/master/screenshot/team_detail.png?raw=true" width="280"/>
 
 <br>
 
 - **虎扑论坛相关**
 
-<img src="https://github.com/smuyyh/SprintNBA/blob/master/screenshot/home_hupu.png?raw=true" width="280"/>
-<img src="https://github.com/smuyyh/SprintNBA/blob/master/screenshot/thread_list.png?raw=true" width="280"/>
-<img src="https://github.com/smuyyh/SprintNBA/blob/master/screenshot/thread_detail.png?raw=true" width="280"/>
+<img src="https://github.com/xiaole0310/DavidNBA/blob/master/screenshot/home_hupu.png?raw=true" width="280"/>
+<img src="https://github.com/xiaole0310/DavidNBA/blob/master/screenshot/thread_list.png?raw=true" width="280"/>
+<img src="https://github.com/xiaole0310/DavidNBA/blob/master/screenshot/thread_detail.png?raw=true" width="280"/>
 
 <br>
 
 - **其他**
 
-<img src="https://github.com/smuyyh/SprintNBA/blob/master/screenshot/home_other.png?raw=true" width="280"/>
+<img src="https://github.com/xiaole0310/DavidNBA/blob/master/screenshot/home_other.png?raw=true" width="280"/>
