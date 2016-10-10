@@ -1,4 +1,4 @@
-# SprintNBA
+# DavidNBA
 
 ## 完整的NBA第三方Android客户端，包含NBA头条新闻、视频集锦/赛场花絮、比赛直播（目前支持比赛前瞻、文字直播、球队及球员技术统计）、球队战绩排行、球员数据排名、虎扑论坛专区（已实现发帖与回复功能）、球队及球员的详细资料。
 
@@ -17,7 +17,7 @@
 初次版本，含NBA新闻、视频花絮、赛程及文字直播、技术统计、球队及球员数据排行、详细资料，虎扑论坛专区。
 
 ## 下载
-- APK本地下载：[SprintNBA-1.0.apk](https://raw.githubusercontent.com/xiaole0310/DavidNBA/master/app/release/DavidNBA-1.0.apk)
+- APK本地下载：[DavidNBA-1.0.apk](https://raw.githubusercontent.com/xiaole0310/DavidNBA/master/app/release/DavidNBA-1.0.apk)
 
 ## TODO
 
